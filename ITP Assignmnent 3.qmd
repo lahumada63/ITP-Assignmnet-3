@@ -194,3 +194,9 @@ execute:
 6.  **Appendix**
 
 Github Repo: <https://github.com/lahumada63/ITP-Assignmnet-3>
+
+Github Site: <https://github.com/lahumada63/ITP-Assignmnet-3.git>
+
+Shopify Website: <https://8t0vq1-89.myshopify.com/password?pb=0>
+
+Password for shopify: AhumadaStore306798

@@ -190,3 +190,7 @@ execute:
 
 5.  **CPP Farm Store application reflection**\
     The CPP Farm Store should focus on making the shopping experience clear, convenient, and visually appealing for its customers. Product pages should include strong photos, simple descriptions, prices, bundle details, and clear stock inventory information so customer know exactly what they are buying. Since a lot of customer may be looking for groceries, quick snacks, gifts, or CPP grown goods, the store should organized products into categories that make shopping easy. One of these being the gift baskets. The website should also highlight what makes the farm store different than other local chains, make include its connection to local agriculture and its connection to Cal Poly Pomona. The farm store should present products in a way that makes online browsing easy while encouraging customers to visit the store and purchase their goods.
+
+6.  **Appendix**
+
+Github Repo: <https://github.com/lahumada63/ITP-Assignmnet-3>
